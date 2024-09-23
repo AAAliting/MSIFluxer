@@ -42,4 +42,4 @@ A Result_MFA folder for storing result files.
   
   Run MFA.py using following code
   
-    ? python MFA.py
+    > python MFA.py
