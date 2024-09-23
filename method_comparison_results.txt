@@ -1,0 +1,2 @@
+min_median_method1: LN_NEWUOA
+min_median_method2: GN_ESCH
